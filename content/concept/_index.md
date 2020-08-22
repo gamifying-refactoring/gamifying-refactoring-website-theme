@@ -11,7 +11,7 @@ The content of this website is broken down into following sections -
 + [Game Structure](game_structure)
     - This section talks about the **overall structure of the game** including the number of teams involved and various rounds 
 + [Rules](rules)
-    + This section talks about **rules** of the game
+    + This section talks about different **rules** of the game
 + [FAQs](faqs)
     + This sections talks about some of the **questions** that participants might have     
 + [Tie breaker](tie_breaker)
