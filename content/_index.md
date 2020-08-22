@@ -2,7 +2,7 @@
 title: Gamifying Refactoring
 ---
 
-## Let's gamify refactoring
+# Let's gamify refactoring
 
 ![Gamifying Refactoring](images/gamifying-refactoring.png?width=700px)
 

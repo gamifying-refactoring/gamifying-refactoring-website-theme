@@ -18,3 +18,7 @@ div.notices p {
 h2, h4 {
     text-align: center;
 }
+
+h1 {
+    text-transform: none;
+}
