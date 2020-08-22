@@ -6,8 +6,8 @@ date: 2020-08-22T13:00:31+05:30
 
 The content of this website is broken down into following sections -
 
-+ [What and Why](what_and_why)
-    - This section talks about **What is refactoring** and **Why did I gamify it**
++ [Idea](idea)
+    - This section talks about the idea behind **gamification of refactoring**
 + [How](how)
     - This section talks about the **overall structure of the game** including the number of teams involved and various rounds 
 + [Rules](rules)
