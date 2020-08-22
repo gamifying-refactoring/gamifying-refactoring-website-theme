@@ -70,3 +70,8 @@ Once all these smells are identified, team moves on to justifying each of them w
 1. Magic Number is a smell because___________________________ 
 2. Temp Variable is a smell because____________________________
 3. Long method is a smell because_____________________________
+
+{{% notice note %}}
+After the end of each question we would go through all the smells and justification of each smell to ensure that everyone is aligned with it. 
+Everyone should **express their opinions** and **learn from each other**. 
+{{% /notice %}}
