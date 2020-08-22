@@ -18,8 +18,8 @@ The content of this website is broken down into following sections -
     + This sections talks about some of the **questions** that participants might have     
 + [Tie breaker](tie_breaker)
     + This section talks about **resolving ties**     
-+ [Sample Run](sample_run)
-    + This section does a sample run of one ...
++ [Virtual Run](virtual_run)
+    + This section does a **virtual run** of the game through an example  
 + [Sample Scorecard](sample_scorecard)
     + This section shows a **sample scorecard**
 
