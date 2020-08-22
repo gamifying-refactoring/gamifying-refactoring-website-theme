@@ -9,7 +9,7 @@ The content of this website is broken down into following sections -
 + [What and Why](what_and_why)
     - This section talks about **What is refactoring** and **Why did I gamify it**
 + [How](how)
-    - This section talks about the **overall structure of the game** including the total number of teams involved and various rounds 
+    - This section talks about the **overall structure of the game** including the number of teams involved and various rounds 
 + [Rules](rules)
     + This section talks about **rules** of the game
 + [FAQs](faqs)
