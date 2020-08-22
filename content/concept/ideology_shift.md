@@ -2,7 +2,7 @@
 title: "Ideology Shift"
 date: 2020-08-22T13:01:53+05:30
 pre: "4. "
-weight: 13
+weight: 40
 ---
 
 ### Writing code that has smells 
