@@ -5,7 +5,7 @@ pre: "3. "
 weight: 12
 ---
 
-### What are the rules of the game?
+### Rules of the game
 
 The rules are simple -
  

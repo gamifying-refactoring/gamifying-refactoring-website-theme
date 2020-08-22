@@ -5,7 +5,7 @@ pre: "2. "
 weight: 11
 ---
 
-### How is the game structured?
+### Structure of the game
 
 This game is played between **5 teams**, each team consists of **2 players**. This game is organized into **4 rounds** - Round1, Round2, Round3 and Round4.
 
