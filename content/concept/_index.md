@@ -21,5 +21,5 @@ The content of this website is broken down into following sections -
 + [Virtual Run](virtual_run)
     + This section does a **virtual run** of the game through an example  
 + [Scorecard Format](scorecard_format)
-    + This section shows the **scorecard format** that was during the game 
+    + This section shows the **scorecard format** that was used during the game 
 
