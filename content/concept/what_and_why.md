@@ -1,7 +1,8 @@
 ---
 title: "What and Why"
 date: 2020-08-22T13:01:53+05:30
-pre: "<i class='fab fa-leanpub'></i> "
+pre: "1. "
+weight: 10
 ---
 
 ### What is refactoring?
