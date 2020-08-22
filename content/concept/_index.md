@@ -8,7 +8,7 @@ The content of this website is broken down into following sections -
 
 + [Idea](idea)
     - This section talks about the idea behind **gamification of refactoring**
-+ [How](how)
++ [Game Structure](game_structure)
     - This section talks about the **overall structure of the game** including the number of teams involved and various rounds 
 + [Rules](rules)
     + This section talks about **rules** of the game
