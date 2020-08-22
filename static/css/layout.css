@@ -15,8 +15,13 @@ div.notices p {
     color: #FFF;
 }
 
-h2, h4 {
+h2 {
     text-align: center;
+}
+
+h4 {
+    text-align: center;
+    margin-top: 2.5rem;
 }
 
 h1 {
