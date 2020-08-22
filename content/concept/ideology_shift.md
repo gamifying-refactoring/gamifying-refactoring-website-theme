@@ -20,7 +20,7 @@ Typically I would think about refactoring code but this time I had to tell my **
 to mention that a team will not be getting any points for mentioning A,B,C smells. This effectively required me to think about **all the possible smells** that
 participants might point out. 
 
-This is what I ended up with finally - 
+This is what I finally ended up with - 
 
 + All the questions in phase1 of round1 have 1 code smell each and questions in phase2 of round1 have 2 code smells each    
 + All the questions in round2 have 3 code smells each    
