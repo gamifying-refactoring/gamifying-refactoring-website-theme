@@ -20,6 +20,6 @@ The content of this website is broken down into following sections -
     + This section talks about **resolving ties**     
 + [Virtual Run](virtual_run)
     + This section does a **virtual run** of the game through an example  
-+ [Sample Scorecard](sample_scorecard)
-    + This section shows a **sample scorecard**
++ [Scorecard Format](scorecard_format)
+    + This section shows the **scorecard format** that was during the game 
 
