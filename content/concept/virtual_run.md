@@ -42,11 +42,11 @@ class CodeWithSmells:
 
 ```Me>``` Team, you have 1 minute and 30 seconds left
 
-**Team1>** Code has got Magic numbers, Temp variables and discount_price method is a long method
+**Team1>** Code has got ```Magic numbers```, ```Temp variables``` and discount_price method is a ```long method```
 
-```Me>``` Great. Go on and justify each
+```Me>``` Great. Go on and justify each of them
 
-**Team1>** Magic Number is called as a smell because it does not communicate its intent or the domain meaning. It lets the readers assume and build imagination in their head
+**Team1>** Magic Number is  a smell because it does not communicate the actual intent or the domain meaning. It pushes the readers to assume and build imagination in their head
 
 ```Me>``` Good. I will give you the points for that
 
