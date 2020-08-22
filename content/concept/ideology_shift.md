@@ -30,7 +30,7 @@ This is what I finally ended up with -
 Each question / code sample also has some guidelines which looks like the following -  
 
 ```
-    Expected smells = 1
+    Expected smells                   =  1
     Points for each smell             =  1
     Points for each justification     =  1
     Time available                    =  2 minutes
