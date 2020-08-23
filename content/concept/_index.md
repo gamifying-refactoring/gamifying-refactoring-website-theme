@@ -14,12 +14,12 @@ The content of this website is broken down into following sections -
     + This section talks about different **rules** of the game
 + [Ideology Shift](ideology_shift)
     + This section talks about the **challenges** that I faced in order to create code with smells  
-+ [FAQs](faqs)
-    + This sections talks about some of the **questions** that participants might have     
-+ [Tie breaker](tie_breaker)
-    + This section talks about **resolving ties**     
 + [Virtual Run](virtual_run)
     + This section does a **virtual run** of the game through an example  
 + [Scorecard Format](scorecard_format)
     + This section shows the **scorecard format** that was used during the game 
++ [Tie breaker](tie_breaker)
+    + This section talks about **resolving ties**     
++ [FAQs](faqs)
+    + This sections talks about some of the **questions** that participants might have     
 
