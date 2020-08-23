@@ -15,7 +15,7 @@ disableToc: true
 * [Sunit Parekh](https://github.com/sunitparekh)
 
 
-### Website 
+### Websites
 
 * [Gihub Pages for Hosting](https://pages.github.com/)
 * [Hugo Theme Learn](https://themes.gohugo.io/theme/hugo-theme-learn/en)
