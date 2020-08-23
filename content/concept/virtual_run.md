@@ -65,7 +65,7 @@ That is a very quick run down of what happens during the game.
 
 
 ### Justifying code smells
-Once all these smells are identified, team moves on to justifying each of them which is the difficult part because you can't use your favorite words ending with **ilities**. 
+Once all these smells are identified, team moves on to justifying each of them which is the difficult part because you can't use your favorite words ending with **ilities**. ![Smiley](/images/smiley.png?width=20px&classes=smiley) 
 
 1. Magic Number is a smell because___________________________ 
 2. Temp Variable is a smell because____________________________
