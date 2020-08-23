@@ -13,7 +13,7 @@ disableBreadcrumb = true
 [[menu.shortcuts]]
 name = "<i class='fab fa-github'></i> Code Repo"
 identifier = "ds"
-url = "https://github.com/SarthakMakhija/gamifying-refactoring"
+url = "https://github.com/gamifying-refactoring/"
 weight = 10
 
 [[menu.shortcuts]]
