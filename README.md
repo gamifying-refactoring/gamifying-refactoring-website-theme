@@ -25,4 +25,4 @@ deploy.sh is taken from [gohugo.io](https://gohugo.io/hosting-and-deployment/hos
 
 ## Website Repository
 
-+ [gamifying-refactoring](https://github.com/SarthakMakhija/gamifying-refactoring.github.io) 
++ [gamifying-refactoring](https://github.com/gamifying-refactoring/gamifying-refactoring.github.io) 
