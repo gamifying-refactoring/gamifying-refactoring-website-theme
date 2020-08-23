@@ -1,5 +1,5 @@
-# Change the default theme to be use when building the site with Hugo
 theme = "hugo-theme-learn"
+baseURL = "https://gamifying-refactoring.github.io/"
 
 # For search functionality
 [outputs]
