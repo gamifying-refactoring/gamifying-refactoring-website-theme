@@ -5,7 +5,7 @@ pre: "6. "
 weight: 60
 ---
 
-> At the end of each round, a team with the lowest score gets eliminated. In order to eliminate ties, a set of questions have been prepared and each question has 2 ideas. 
+> At the end of each round, a team with the lowest score gets eliminated. In order to resolve ties, a set of questions have been prepared and each question has 2 ideas. 
 A question will be floated around and one of the teams defends one idea while the other team stands against that idea. A debate kicks in and the winner gets safe.
 
 **1> Convincing the client to do refactoring of an existing code that has smells**
