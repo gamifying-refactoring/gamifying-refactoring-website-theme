@@ -19,7 +19,7 @@ One team defends the idea of refactoring after the story while the other talks a
 
 **3> You pair says, “I prefer having multiple assertions in one unit tests”**
 
-One team defends the idea of having multiple assertions in one unit tests whereas the other team talks about having a single assertion in a unit test.
+One team defends the idea of having multiple assertions in one unit test whereas the other team talks about having a single assertion in a unit test.
 
 **4> Your pair says, "I will create an inheritance hierarchy for classes - PdfExporter and TextExporter because both of them export data"**
 
