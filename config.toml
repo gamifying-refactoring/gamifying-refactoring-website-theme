@@ -5,10 +5,18 @@ theme = "hugo-theme-learn"
 [outputs]
 home = [ "HTML", "RSS", "JSON"]
 
+[Languages]
+[Languages.en]
+title = "Go beyong ilities"
+weight = 1
+languageName = "English"
+
 [params]
 custom_css = ["css/layout.css"]
 disableLanguageSwitchingButton = true
 disableBreadcrumb = true
+description = "Gamifying Refactoring with an idea of going beyong ilities"
+author = "Sarthak Makhija"
 
 [[menu.shortcuts]]
 name = "<i class='fa fa-male'></i>&nbsp;&nbsp;&nbsp;About Me"
