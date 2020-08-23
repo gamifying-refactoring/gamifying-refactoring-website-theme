@@ -42,7 +42,7 @@ class CodeWithSmells:
 
 ```Me>``` Team, you have 1 minute and 30 seconds left
 
-**Team1>** Code has got ```Magic numbers```, ```Temp variables``` and discount_price method is a ```long method```
+**Team1>** Code has got ```Magic numbers```, ```Temp variables``` and discount_price method is a ```long method``` or has ```multiple responsibilities```
 
 ```Me>``` Great. Go on and justify each of them
 
