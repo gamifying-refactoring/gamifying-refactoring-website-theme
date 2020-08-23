@@ -23,4 +23,4 @@ The content of this website is broken down into following sections -
 + [FAQs](faqs)
     + This sections talks about some of the **questions** that participants might have     
 + [Summary](faqs)
-    + This sections summarises the **learnings of my team**     
+    + This sections summarises the **overall takeaways** and a few **things** to **take care of** in case you plan to run this game with your team     
