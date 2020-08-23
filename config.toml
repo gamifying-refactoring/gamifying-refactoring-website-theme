@@ -7,7 +7,7 @@ home = [ "HTML", "RSS", "JSON"]
 
 [Languages]
 [Languages.en]
-title = "Go beyong ilities"
+title = "Go beyond ilities"
 weight = 1
 languageName = "English"
 
@@ -15,7 +15,7 @@ languageName = "English"
 custom_css = ["css/layout.css"]
 disableLanguageSwitchingButton = true
 disableBreadcrumb = true
-description = "Gamifying Refactoring with an idea of going beyong ilities"
+description = "Gamifying Refactoring with an idea of going beyond ilities"
 author = "Sarthak Makhija"
 
 [[menu.shortcuts]]
