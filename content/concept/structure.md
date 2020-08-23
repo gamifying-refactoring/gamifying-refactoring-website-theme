@@ -7,9 +7,9 @@ weight: 20
 
 ### Structure of the game
 
-This game is played between **5 teams**, each team consists of **2 players**. The game is organized into **4 rounds** - Round1, Round2, Round3 and Round4.
+This game is played between **5 teams**, each team consists of **2 players**. The game is organized into **4 rounds**.
 
-**Round1 and round2** have **2 passes** - each pass consists of 5 questions, one for each team. 
+**Round1 has **2 passes** - each pass consists of 5 questions, one for each team. 
 
 **Round2, Round3 and Round4** have a **single pass** each. 
 

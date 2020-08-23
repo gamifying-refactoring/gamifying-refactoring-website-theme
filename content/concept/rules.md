@@ -21,7 +21,7 @@ Every game needs to have a "fun" element in it. Keeping this in mind, a concept 
 ### OPEN question
 
 + If a team can not identify or justify all the smells, the question becomes OPEN for any other team to pick.
-+ In order to pick an OPEN question, a team or any of its members needs to ping “Picked” on Zoom chat after the question has been confirmed OPEN
++ In order to pick an OPEN question, a team or any of its members needs to ping “Picked” on Zoom chat only after the question has been confirmed OPEN
 + The first 2 teams to ping “Picked” get the OPEN question
 
 {{% notice note %}}

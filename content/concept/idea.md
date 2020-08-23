@@ -5,7 +5,7 @@ pre: "1. "
 weight: 10
 ---
 
-> Refactoring is an important concept which is really fun to learn and practice and I wanted to gamify it because it is such an important concept.
+> Refactoring is an important concept which is really fun to learn and practice. Hence, I wanted to gamify it.
 
 
 ### Foundation of the idea 

@@ -22,9 +22,9 @@ participants might point out.
 
 This is what I finally ended up with - 
 
-+ All the questions in phase1 of round1 have 1 code smell each and questions in phase2 of round1 have 2 code smells each    
-+ All the questions in round2 have 3 code smells each    
-+ All the questions in round3 have 4 code smells each    
++ All the questions in Pass1 of Round1 have 1 code smell each and questions in Pass2 of Round1 have 2 code smells each    
++ All the questions in Round2 have 3 code smells each    
++ All the questions in Round3 have 4 code smells each    
 + Last round has one question which I call a "mega question", has 11 code smells
 
 Each question / code sample also has some guidelines which look like the following -  
