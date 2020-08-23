@@ -8,6 +8,7 @@ disableToc: true
 > Thanks to all colleagues at ThoughtWorks for providing feedback which helped me in shaping up this game.
 (Listing alphabetically)
 
+* [Harsh Mohta](https://github.com/harshvmo)
 * [Prateek Shah](https://github.com/shahprateek1991)
 * [Ranjit Shinde](https://github.com/ranjitshinde91)
 * [Siddharth Kulkarni](https://github.com/sidcool1234)
