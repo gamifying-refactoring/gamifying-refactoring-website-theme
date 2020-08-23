@@ -12,7 +12,9 @@ hugo
 cd public
 
 # Add changes to git.
+git init
 git add .
+git remote add website https://github.com/gamifying-refactoring/gamifying-refactoring.github.io.git
 
 # Commit changes.
 msg="rebuilding site $(date)"
