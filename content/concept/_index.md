@@ -22,4 +22,5 @@ The content of this website is broken down into following sections -
     + This section talks about **resolving ties**     
 + [FAQs](faqs)
     + This sections talks about some of the **questions** that participants might have     
-
++ [Summary](faqs)
+    + This sections summarises the **learnings of my team**     

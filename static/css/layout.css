@@ -27,3 +27,8 @@ h4 {
 h1 {
     text-transform: none;
 }
+
+.smiley {
+    margin: -4px !important;
+    display: inline !important;
+}
