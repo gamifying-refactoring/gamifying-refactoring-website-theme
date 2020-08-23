@@ -5,7 +5,7 @@ pre: "9. "
 weight: 90
 ---
 
-> It was learning combined with fun for me. Thinking about writing code with smells, thinking about mistakes that I might make everyday and thinking about things that I might
+> It was learning combined with fun for me. Thinking about writing code with smells, thinking about the mistakes that I might make everyday while coding and thinking about the things that I might
 > tend to ignore during development was the real fun.
 
 We all had good time going back to the roots and questioning things like "Why is long method really a smell". 

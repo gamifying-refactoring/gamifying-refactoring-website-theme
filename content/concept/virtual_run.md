@@ -46,7 +46,7 @@ class CodeWithSmells:
 
 ```Me>``` Great. Go on and justify each of them
 
-**Team1>** Magic Number is  a smell because it does not communicate the actual intent or the domain meaning. It pushes the readers to assume and build imagination in their head
+**Team1>** Magic Number is  a smell because it does not communicate the actual intent or the domain meaning. It lets the readers assume and build imagination in their head about the meaning of .95 or .98
 
 ```Me>``` Good. I will give you the points for that
 
@@ -56,7 +56,7 @@ class CodeWithSmells:
 
 ..........goes on
 
-That is a very quick run down of what happens during the game.
+That is a very quick run down of what happens during the game. Typically a team will look at the code, quickly see the guidelines and identify smells.
 
 ### Identifying code smells
 1. **Magic numbers**

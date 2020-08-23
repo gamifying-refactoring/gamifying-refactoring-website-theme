@@ -28,9 +28,9 @@ Every game needs to have a "fun" element in it. Keeping this in mind, a concept 
 OPEN questions also push other teams have to be attentive because this is an opportunity for them to score.
 {{% /notice %}} 
 
-### Rules for OPEN question
+### Rules for OPEN questions
 
-The rules for OPEN question are a little different -
+The rules for OPEN questions are a little different -
 
 + The team gets 1 minute to identify and/or justify the remaining smells
 + The team gets double of all the points: 2 points for each smell and 2 for each valid justification

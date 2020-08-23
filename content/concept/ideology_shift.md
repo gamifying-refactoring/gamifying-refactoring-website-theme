@@ -7,7 +7,7 @@ weight: 40
 
 ### Writing code that has smells 
 
-Creating code with smells and that too intentionally was probably the most difficult part of the preparation. 
+> Creating code with smells and that too intentionally was probably the most difficult part of the preparation. 
 
 This is because of a few reasons - 
 
@@ -27,7 +27,7 @@ This is what I finally ended up with -
 + All the questions in round3 have 4 code smells each    
 + Last round has one question which I call a "mega question", has 11 code smells
 
-Each question / code sample also has some guidelines which looks like the following -  
+Each question / code sample also has some guidelines which look like the following -  
 
 ```
     Expected smells                   =  1
