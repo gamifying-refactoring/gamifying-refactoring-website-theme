@@ -11,10 +11,15 @@ disableLanguageSwitchingButton = true
 disableBreadcrumb = true
 
 [[menu.shortcuts]]
+name = "<i class='fa fa-male'></i>&nbsp;&nbsp;&nbsp;About Me"
+url = "/about_me"
+weight = 10
+
+[[menu.shortcuts]]
 name = "<i class='fab fa-github'></i> Code Repo"
 identifier = "ds"
 url = "https://github.com/gamifying-refactoring/"
-weight = 10
+weight = 20
 
 [[menu.shortcuts]]
 name = "<i class='fas fa-bullhorn'></i> Credits"
