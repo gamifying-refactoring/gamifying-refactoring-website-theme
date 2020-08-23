@@ -58,7 +58,7 @@ class CodeWithSmells:
 
 That is a very quick run down of what happens during the game.
 
-### Identified code smells
+### Identifying code smells
 1. **Magic numbers**
 2. **Temp variable**
 3. **Multiple responsibilities** or **Long method** 
