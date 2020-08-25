@@ -2,6 +2,8 @@
 title: About Me
 disableToc: true
 ---
+![Sarthak Makhija](/images/self.png) 
+##### Sarthak Makhija
 
 I am an application developer at ThoughtWorks. It has been a little more than 8 years that I have been writing software. I had worked with Citigroup and TCS before I joined ThoughtWorks.
 

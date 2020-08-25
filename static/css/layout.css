@@ -36,3 +36,8 @@ h1 {
 .comic-font {
     font-family: "Comic Sans MS"
 }
+
+h5 {
+    text-align: center;
+    color: #8451A1;
+}
