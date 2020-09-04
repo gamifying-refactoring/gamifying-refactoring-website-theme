@@ -20,7 +20,7 @@ The idea is to **IDENTIFY** code smells and understand or justify **WHY** is som
 
 ---
 
-Before moving on, I will quickly mention the definition of refactoring which is shamefully copied from [refactoring.com](https://refactoring.com) - 
+Before moving on, I will quickly mention the definition of refactoring which is gladly reused from [refactoring.com](https://refactoring.com) ![Smiley](/images/smiley.png?width=20px&classes=smiley) 
 
 {{% notice note %}} 
 Refactoring is a **disciplined technique** for restructuring an existing body of code, altering its internal structure without changing its external behavior. Its heart is a series of **small behavior preserving transformations**. Each transformation (called a "refactoring") does little, but a **sequence of these transformations** can produce a **significant restructuring**. Since each refactoring is small, it's less likely to go wrong. The system is kept fully working after each refactoring, reducing the chances that a system can get seriously broken during the restructuring.
