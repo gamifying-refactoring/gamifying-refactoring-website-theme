@@ -25,7 +25,7 @@ weight = 10
 
 [[menu.shortcuts]]
 name = "<i class='fab fa-github'></i> Code Repository"
-url = "/code_repo"
+url = "/code_repository"
 weight = 20
 
 [[menu.shortcuts]]
