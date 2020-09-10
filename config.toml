@@ -24,12 +24,6 @@ url = "/about_me"
 weight = 10
 
 [[menu.shortcuts]]
-name = "<i class='fab fa-github'></i> Code Repo"
-identifier = "ds"
-url = "https://github.com/gamifying-refactoring/"
-weight = 20
-
-[[menu.shortcuts]]
 name = "<i class='fas fa-bullhorn'></i> Credits"
 url = "/credits"
 weight = 30
