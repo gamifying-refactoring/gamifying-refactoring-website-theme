@@ -22,4 +22,4 @@ A few things that you might want to take care of, in case you plan to play this 
 + Ensure all the code smells in a question are clarified to the entire audience before moving on to the next question
 + Plan proper breaks in between, I didn't ![Smiley](/images/smiley.png?width=20px&classes=smiley)
 
-I hope you enjoyed the reading, feel free to share your feedback.  
+I hope you enjoyed reading, feel free to share your feedback.  
