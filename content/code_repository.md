@@ -9,7 +9,7 @@ Trust me, code for this game exists in reality. It is available in **Python** an
 
 This is how the overall plan looks at the moment - 
 
-![Gamifying Refactoring](/images/backlog.png?height=350px)
+![Gamifying Refactoring](/images/backlog.png)
 
 Code for this game is placed in a private git repository within an organization [here](https://github.com/gamifying-refactoring). Getting access to the code involves the following steps -
 
