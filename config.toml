@@ -24,6 +24,11 @@ url = "/about_me"
 weight = 10
 
 [[menu.shortcuts]]
+name = "<i class='fab fa-github'></i> Code Repository"
+url = "/code_repo"
+weight = 20
+
+[[menu.shortcuts]]
 name = "<i class='fas fa-bullhorn'></i> Credits"
 url = "/credits"
 weight = 30
