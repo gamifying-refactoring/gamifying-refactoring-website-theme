@@ -5,9 +5,9 @@ disableToc: true
 
 I am sure you did not expect this page but this is the reality ![Smiley](/images/smiley.png?width=20px&classes=smiley).
 
-Trust me, code for this game exists in reality. It is available in **Python** and **Java** at this moment.
- 
-Other programming languages are also planned and should be available soon. This is how the overall plan looks at the moment - 
+Trust me, code for this game exists in reality. It is available in **Python** and **Java** at this moment. Code is also planned in other programming languages and should be available soon. 
+
+This is how the overall plan looks at the moment - 
 
 ![Gamifying Refactoring](/images/backlog.png?height=350px)
 
