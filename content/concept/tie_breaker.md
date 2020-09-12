@@ -1,8 +1,8 @@
 ---
 title: "Tie breaker"
 date: 2020-08-22T13:01:53+05:30
-pre: "6. "
-weight: 60
+pre: "7. "
+weight: 70
 ---
 
 > At the end of each round, a team with the lowest score gets eliminated. In order to resolve ties, a set of questions have been prepared and each question has 2 ideas. 
