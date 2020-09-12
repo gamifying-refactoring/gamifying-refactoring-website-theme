@@ -1,8 +1,8 @@
 ---
 title: "Virtual Run"
 date: 2020-08-22T13:01:53+05:30
-pre: "5. "
-weight: 50
+pre: "7. "
+weight: 70
 ---
 
 ### Let's do a virtual run   

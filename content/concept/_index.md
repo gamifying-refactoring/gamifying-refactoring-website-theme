@@ -10,6 +10,8 @@ The content of this website is broken down into following sections -
     - This section talks about the idea behind **gamification of refactoring**
 + [Structure](structure)
     - This section talks about the **overall structure of the game** including the number of teams involved and various rounds 
++ [Wildcard](wildcard)
+    - This section talks about the way **eliminated teams can make a comeback** and knock other teams off 
 + [Rules](rules)
     + This section talks about different **rules** of the game
 + [Ideology Shift](ideology_shift)

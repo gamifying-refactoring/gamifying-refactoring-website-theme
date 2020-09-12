@@ -1,8 +1,8 @@
 ---
 title: "Rules"
 date: 2020-08-22T13:01:53+05:30
-pre: "3. "
-weight: 30
+pre: "4. "
+weight: 40
 ---
 
 ### Rules of the game

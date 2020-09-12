@@ -1,8 +1,8 @@
 ---
 title: "Summary"
 date: 2020-08-22T13:01:53+05:30
-pre: "9. "
-weight: 90
+pre: "10. "
+weight: 100
 ---
 
 > It was learning combined with fun for me. Thinking about writing code with smells, thinking about the mistakes that I might make everyday while coding and thinking about the things that I might

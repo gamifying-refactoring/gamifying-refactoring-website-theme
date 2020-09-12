@@ -1,8 +1,8 @@
 ---
 title: "FAQs"
 date: 2020-08-22T13:01:53+05:30
-pre: "8. "
-weight: 80
+pre: "9. "
+weight: 90
 ---
 
 | Question | Answer |
